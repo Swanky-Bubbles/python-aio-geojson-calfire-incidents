@@ -1,8 +1,10 @@
-# python-aio-geojson-nsw-rfs-incidents
+# python-aio-geojson-calfire-incidents
 
 
 
 This library provides convenient async access to the [Cal Fire](https://www.fire.ca.gov/incidents/) incidents feed.
+
+Adapted for CalFire from: https://github.com/exxamalte/python-aio-geojson-generic-client
  
 ## Installation
 `pip install aio-geojson-calfire-incidents`
